@@ -1,0 +1,32 @@
+C:\Users\limri\Downloads\Main Program\bin\Debug\Main Program.exe.config
+C:\Users\limri\Downloads\Main Program\bin\Debug\Main Program.exe
+C:\Users\limri\Downloads\Main Program\bin\Debug\Main Program.pdb
+C:\Users\limri\Downloads\Main Program\bin\Debug\System.Text.Json.dll
+C:\Users\limri\Downloads\Main Program\bin\Debug\System.Memory.dll
+C:\Users\limri\Downloads\Main Program\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\limri\Downloads\Main Program\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\limri\Downloads\Main Program\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\limri\Downloads\Main Program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\limri\Downloads\Main Program\bin\Debug\System.Buffers.dll
+C:\Users\limri\Downloads\Main Program\obj\Debug\Main Program.csproj.AssemblyReference.cache
+C:\Users\limri\Downloads\Main Program\obj\Debug\Main Program.exe.config
+C:\Users\limri\Downloads\Main Program\obj\Debug\Main Program.csproj.CoreCompileInputs.cache
+C:\Users\limri\Downloads\Main Program\obj\Debug\Main Program.csproj.CopyComplete
+C:\Users\limri\Downloads\Main Program\obj\Debug\Main Program.exe
+C:\Users\limri\Downloads\Main Program\obj\Debug\Main Program.pdb
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\Main Program.exe.config
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\Main Program.exe
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\Main Program.pdb
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\System.Text.Json.dll
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\System.Memory.dll
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\bin\Debug\System.Buffers.dll
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\obj\Debug\Main Program.csproj.AssemblyReference.cache
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\obj\Debug\Main Program.exe.config
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\obj\Debug\Main Program.csproj.CoreCompileInputs.cache
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\obj\Debug\Main Program.csproj.CopyComplete
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\obj\Debug\Main Program.exe
+C:\Users\limri\Downloads\Physics-Bonus\Main Program\obj\Debug\Main Program.pdb

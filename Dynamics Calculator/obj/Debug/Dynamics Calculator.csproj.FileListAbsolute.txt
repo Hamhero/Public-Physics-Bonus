@@ -1,0 +1,7 @@
+C:\Users\limri\Downloads\Physics-Bonus\Dynamics Calculator\bin\Debug\Dynamics Calculator.exe.config
+C:\Users\limri\Downloads\Physics-Bonus\Dynamics Calculator\bin\Debug\Dynamics Calculator.exe
+C:\Users\limri\Downloads\Physics-Bonus\Dynamics Calculator\bin\Debug\Dynamics Calculator.pdb
+C:\Users\limri\Downloads\Physics-Bonus\Dynamics Calculator\obj\Debug\Dynamics Calculator.csproj.AssemblyReference.cache
+C:\Users\limri\Downloads\Physics-Bonus\Dynamics Calculator\obj\Debug\Dynamics Calculator.csproj.CoreCompileInputs.cache
+C:\Users\limri\Downloads\Physics-Bonus\Dynamics Calculator\obj\Debug\Dynamics Calculator.exe
+C:\Users\limri\Downloads\Physics-Bonus\Dynamics Calculator\obj\Debug\Dynamics Calculator.pdb

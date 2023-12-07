@@ -1,0 +1,7 @@
+C:\Users\limri\Downloads\Physics-Bonus\Kinematics Calculator\bin\Debug\Kinematics Calculator.exe.config
+C:\Users\limri\Downloads\Physics-Bonus\Kinematics Calculator\bin\Debug\Kinematics Calculator.exe
+C:\Users\limri\Downloads\Physics-Bonus\Kinematics Calculator\bin\Debug\Kinematics Calculator.pdb
+C:\Users\limri\Downloads\Physics-Bonus\Kinematics Calculator\obj\Debug\Kinematics Calculator.csproj.AssemblyReference.cache
+C:\Users\limri\Downloads\Physics-Bonus\Kinematics Calculator\obj\Debug\Kinematics Calculator.csproj.CoreCompileInputs.cache
+C:\Users\limri\Downloads\Physics-Bonus\Kinematics Calculator\obj\Debug\Kinematics Calculator.exe
+C:\Users\limri\Downloads\Physics-Bonus\Kinematics Calculator\obj\Debug\Kinematics Calculator.pdb
