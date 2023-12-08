@@ -344,6 +344,40 @@ while True:
     # Draw the floor
     pygame.draw.rect(screen, (255, 255, 0), (0, HEIGHT - CANNONBALL_RADIUS, WIDTH, CANNONBALL_RADIUS))
 
+        # Handle button clicks
+    mouse_x, mouse_y = pygame.mouse.get_pos()
+    
+    if button_rect.collidepoint(mouse_x, mouse_y) and event.type == pygame.MOUSEBUTTONDOWN:
+        recording = not recording
+        if recording:
+            frame_list = []  # Clear the frame list when starting a new recording
+        else:
+            save_video()  # Call the function to save the video
+
+    if angle_button_rect.collidepoint(mouse_x, mouse_y) and event.type == pygame.MOUSEBUTTONDOWN:
+        input_text = input_dialog_angle(f'Adjust Angle: {cannon_angle}')
+        try:
+            cannon_angle = int(input_text)
+        except ValueError:
+            pass
+
+    if speed_button_rect.collidepoint(mouse_x, mouse_y) and event.type == pygame.MOUSEBUTTONDOWN:
+        input_text = input_dialog_speed(f'Adjust Speed: {cannonball_speed}')
+        try:
+            cannonball_speed = int(input_text)
+        except ValueError:
+            pass
+
+    if gravity_button_rect.collidepoint(mouse_x, mouse_y) and event.type == pygame.MOUSEBUTTONDOWN:
+        input_text = input_dialog_gravity(f'Adjust Gravity: {gravity}')
+        try:
+            gravity = float(input_text)
+        except ValueError:
+            pass
+
+    if clear_button_rect.collidepoint(mouse_x, mouse_y) and event.type == pygame.MOUSEBUTTONDOWN:
+        cannonball_fired = False  # Reset cannonball state
+
     # Draw the HUD text
     text_y = 10
     text_gap = 20

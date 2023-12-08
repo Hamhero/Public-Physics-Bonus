@@ -1,4 +1,4 @@
-('C:\\Users\\limri\\Downloads\\Physics-Bonus\\Cannon '
+('C:\\Users\\limri\\Downloads\\Public-Physics-Bonus\\Cannon '
  'Simulator\\build\\Cannon\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\limri\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PIL\\__init__.py',
